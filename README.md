@@ -1,1 +1,1 @@
-# AppUno (finished repo)
+# AppUno (decluttered repo)
